@@ -1,0 +1,51 @@
+group_num,group_label,group_var,union_count,union_rate,group_var_legible,data_month_end,data_month_begin
+1,All workers,all,16051000,0.11157212480182484,All workers,September 2023,October 2022
+1,Ages 16-24,age_group,1019000,0.05211562887250296,Age group,September 2023,October 2022
+2,Ages 25-34,age_group,3416000,0.10217778162255746,Age group,September 2023,October 2022
+3,Ages 35-44,age_group,3867000,0.12269462809537192,Age group,September 2023,October 2022
+4,Ages 45-54,age_group,3893000,0.13871369681906448,Age group,September 2023,October 2022
+5,Ages 55-64,age_group,3055000,0.13275526899127735,Age group,September 2023,October 2022
+6,Ages 65 and above,age_group,801000,0.09669233217890792,Age group,September 2023,October 2022
+5,Advanced,educ,3444000,0.15688453976858968,Education,September 2023,October 2022
+4,College,educ,3990000,0.10743654396320969,Education,September 2023,October 2022
+2,High school,educ,3813000,0.102957828557342,Education,September 2023,October 2022
+1,Less than high school,educ,589000,0.0551249613386938,Education,September 2023,October 2022
+3,Some college,educ,4216000,0.11374718229223763,Education,September 2023,October 2022
+1,Female,female,7367000,0.10666392352317322,Gender,September 2023,October 2022
+0,Male,female,8684000,0.11610479679756272,Gender,September 2023,October 2022
+1,"Agriculture, forestry, fishing, and hunting",mind03,57000,0.04327391593051065,Industry,September 2023,October 2022
+3,Construction,mind03,1204000,0.13033554261052335,Industry,September 2023,October 2022
+10,Educational and health services,mind03,6325000,0.1829260135870164,Industry,September 2023,October 2022
+8,Financial activities,mind03,261000,0.027272517832514363,Industry,September 2023,October 2022
+7,Information,mind03,245000,0.09050802244648909,Industry,September 2023,October 2022
+11,Leisure and hospitality,mind03,483000,0.03710931475053952,Industry,September 2023,October 2022
+4,Manufacturing,mind03,1327000,0.08941354772651516,Industry,September 2023,October 2022
+2,Mining,mind03,30000,0.053201094123441574,Industry,September 2023,October 2022
+12,Other services,mind03,217000,0.036324513079991905,Industry,September 2023,October 2022
+9,Professional and business services,mind03,586000,0.03390639822475848,Industry,September 2023,October 2022
+13,Public administration,mind03,2492000,0.3156107675187366,Industry,September 2023,October 2022
+6,Transportation and utilities,mind03,1997000,0.22326837808621508,Industry,September 2023,October 2022
+5,Wholesale and retail trade,mind03,826000,0.04603062973365329,Industry,September 2023,October 2022
+7,Construction and extraction occupations,mocc03,1228000,0.17774862323586893,Occupation,September 2023,October 2022
+6,"Farming, fishing, and forestry occupations",mocc03,49000,0.056436788985933066,Occupation,September 2023,October 2022
+8,"Installation, maintenance, and repair occupations",mocc03,633000,0.1454598599576258,Occupation,September 2023,October 2022
+1,"Management, business, and financial occupations",mocc03,1192000,0.04751758506001307,Occupation,September 2023,October 2022
+5,Office and administrative support occupations,mocc03,1494000,0.09639177245922859,Occupation,September 2023,October 2022
+9,Production occupations,mocc03,1035000,0.13142525579704192,Occupation,September 2023,October 2022
+2,Professional and related occupations,mocc03,6060000,0.1649531987970037,Occupation,September 2023,October 2022
+4,Sales and related occupations,mocc03,406000,0.033239424525737915,Occupation,September 2023,October 2022
+3,Service occupations,mocc03,2418000,0.10293684623396968,Occupation,September 2023,October 2022
+10,Transportation and material moving occupations,mocc03,1535000,0.14182139964357549,Occupation,September 2023,October 2022
+1,Government employee,public,7672000,0.35629449794932183,Private/public sector,September 2023,October 2022
+0,Private-sector employee,public,8379000,0.06849677503126274,Private/public sector,September 2023,October 2022
+4,Asian,wbhao,1085000,0.09773423588270737,Race and ethnicity,September 2023,October 2022
+2,Black,wbhao,2368000,0.12678779774700638,Race and ethnicity,September 2023,October 2022
+3,Hispanic,wbhao,2748000,0.10113296879224501,Race and ethnicity,September 2023,October 2022
+5,Other,wbhao,138000,0.08732363250173979,Race and ethnicity,September 2023,October 2022
+1,White,wbhao,9711000,0.11381546922477491,Race and ethnicity,September 2023,October 2022
+2,Midwest,region,3606000,0.11748978144807036,Region,September 2023,October 2022
+1,Northeast,region,4317000,0.17185516630503367,Region,September 2023,October 2022
+3,South,region,3378000,0.06207121392620323,Region,September 2023,October 2022
+4,West,region,4749000,0.1412566555869828,Region,September 2023,October 2022
+0,Non-right-to-work state,rtw_state,11664000,0.15447041481030244,Right-to-work,September 2023,October 2022
+1,Right-to-work state,rtw_state,4387000,0.06417910471201968,Right-to-work,September 2023,October 2022
